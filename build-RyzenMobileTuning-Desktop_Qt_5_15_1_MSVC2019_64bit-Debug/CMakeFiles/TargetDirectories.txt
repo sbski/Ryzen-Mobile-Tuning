@@ -1,0 +1,5 @@
+C:/Users/Keato/Documents/GitHub/Ryzen-Moblie-Tuning/build-RyzenMobileTuning-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/RyzenMobileTuning.dir
+C:/Users/Keato/Documents/GitHub/Ryzen-Moblie-Tuning/build-RyzenMobileTuning-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Keato/Documents/GitHub/Ryzen-Moblie-Tuning/build-RyzenMobileTuning-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Keato/Documents/GitHub/Ryzen-Moblie-Tuning/build-RyzenMobileTuning-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/RyzenMobileTuning_autogen_timestamp_deps.dir
+C:/Users/Keato/Documents/GitHub/Ryzen-Moblie-Tuning/build-RyzenMobileTuning-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug/CMakeFiles/RyzenMobileTuning_autogen.dir

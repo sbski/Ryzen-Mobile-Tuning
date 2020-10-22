@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RyzenMobileTuning",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RyzenMobileTuning::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RyzenMobileTuning-Debug-dbe20e4151d6946ace18.json",
+					"name" : "RyzenMobileTuning",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RyzenMobileTuning_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RyzenMobileTuning_autogen-Debug-09a60c31af8f808951eb.json",
+					"name" : "RyzenMobileTuning_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RyzenMobileTuning_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RyzenMobileTuning_autogen_timestamp_deps-Debug-6b9721bbe6bcb561fa0c.json",
+					"name" : "RyzenMobileTuning_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Keato/Documents/GitHub/Ryzen-Moblie-Tuning/build-RyzenMobileTuning-Desktop_Qt_5_15_1_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/Keato/Documents/GitHub/Ryzen-Moblie-Tuning/RyzenMobileTuning"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

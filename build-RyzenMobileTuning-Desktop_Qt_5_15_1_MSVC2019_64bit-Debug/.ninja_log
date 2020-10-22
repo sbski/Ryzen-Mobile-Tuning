@@ -1,0 +1,19 @@
+# ninja log v5
+2	202	624726812	RyzenMobileTuning_autogen/timestamp	83fe443518987129
+202	266	624726780	C:/Users/Keato/Documents/GitHub/Ryzen-Moblie-Tuning/RyzenMobileTuning/RyzenMobileTuning_en_US.ts	fa676af25bebcfcc
+202	266	624726780	CMakeFiles/RyzenMobileTuning_en_US.ts_lst_file	fa676af25bebcfcc
+266	982	624726813	CMakeFiles/RyzenMobileTuning.dir/RyzenMobileTuning_autogen/mocs_compilation.cpp.obj	14620bac4328a19e
+269	1047	624726813	CMakeFiles/RyzenMobileTuning.dir/main.cpp.obj	bf4cfe4cf7952265
+271	1070	624726813	CMakeFiles/RyzenMobileTuning.dir/ryzenmobiletuning.cpp.obj	12e71e9d50d2ddff
+1070	1377	624726814	RyzenMobileTuning.exe	4c62098e53e7bc2d
+10	97	624727067	RyzenMobileTuning_autogen/timestamp	83fe443518987129
+97	128	624727067	C:/Users/Keato/Documents/GitHub/Ryzen-Moblie-Tuning/RyzenMobileTuning/RyzenMobileTuning_en_US.ts	fa676af25bebcfcc
+97	128	624727067	CMakeFiles/RyzenMobileTuning_en_US.ts_lst_file	fa676af25bebcfcc
+129	849	624727068	CMakeFiles/RyzenMobileTuning.dir/RyzenMobileTuning_autogen/mocs_compilation.cpp.obj	14620bac4328a19e
+849	995	624727068	RyzenMobileTuning.exe	4c62098e53e7bc2d
+10	110	624727575	RyzenMobileTuning_autogen/timestamp	83fe443518987129
+110	158	624727575	C:/Users/Keato/Documents/GitHub/Ryzen-Moblie-Tuning/RyzenMobileTuning/RyzenMobileTuning_en_US.ts	fa676af25bebcfcc
+110	158	624727575	CMakeFiles/RyzenMobileTuning_en_US.ts_lst_file	fa676af25bebcfcc
+159	997	624727576	CMakeFiles/RyzenMobileTuning.dir/RyzenMobileTuning_autogen/mocs_compilation.cpp.obj	14620bac4328a19e
+161	999	624727576	CMakeFiles/RyzenMobileTuning.dir/ryzenmobiletuning.cpp.obj	12e71e9d50d2ddff
+1000	1265	624727576	RyzenMobileTuning.exe	4c62098e53e7bc2d
